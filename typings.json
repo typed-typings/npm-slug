@@ -1,0 +1,9 @@
+{
+  "name": "slug",
+  "homepage": "https://github.com/dodo/node-slug",
+  "main": "slug.d.ts",
+  "version": "^0.9.0",
+  "globalDevDependencies": {
+    "node": "registry:env/node#4.0.0+20160507210304"
+  }
+}
